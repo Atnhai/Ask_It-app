@@ -92,7 +92,7 @@ const Navbar = () => {
             color={theme.palette.primary.main}
           >
             <Link href="/" color="inherit" underline="none">
-              PostIt
+              AskIt
             </Link>
           </Typography>
         </HorizontalStack>
